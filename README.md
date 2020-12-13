@@ -1,1 +1,1 @@
-In this repository I do the same as I did im my samples respository. Like in this repository I upload some of my projects which are basically realted to the openCV (open computer Vision)
+In this repository I do the same as I did im my samples respository. Like in this repository also I upload some of my projects which are basically realted to the openCV (open computer Vision) but the twist is the projects that I'll upload will not be any assignments.
