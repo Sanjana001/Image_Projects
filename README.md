@@ -1,1 +1,2 @@
 In this repository I will do the same as I did im my samples respository. In this repository also I upload some of my projects which are basically realted to the openCV (open computer Vision) but the twist is that the projects that I'll upload will not be any assignments. These will be my works either during workshops or during learning weekends.
+While uploading any project I will upload one python file for the project as well as my jupyter notebook where I made this.
