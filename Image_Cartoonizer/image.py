@@ -3,7 +3,7 @@ import cv2
 #reading an image
 img = cv2.imread(r"C:\Users\HP\Pictures\camera pictures\DSC01029.JPG")
 #resize the image
-#resize() function takes two arguments first is the source file and the second one is the dimension of the image
+#resize() function takes two arguments first is the source image and the second one is the dimension that you want to give in order to resize your image
 image = cv2.resize(img,(800,800))
 gray = cv2.cvtColor(image,cv2.COLOR_RGB2GRAY)
 gray = cv2.medianBlur(gray,5)
