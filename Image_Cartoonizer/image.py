@@ -14,8 +14,10 @@ cartoon = cv2.bitwise_and(colors,colors,mask=edges)
 #It takes two arguments: 1.) name that you want to give to your displayed image
 # 2.) the img variable that you want to display
 cv2.imshow("image",image)
+#this will displayed your resized image
 cv2.imshow("cartoon",cartoon)
-cv2.imshow("color",colors)
-cv2.imshow("edges",edges)
+#this one will display your cartoonized image
+#cv2.imshow("color",colors)
+#cv2.imshow("edges",edges)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
